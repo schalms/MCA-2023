@@ -11,3 +11,5 @@ https://github.com/schalms/MCA-2023/assets/145568023/859ff810-936b-439a-a0a9-f78
 
 
 [p] I think some of the challenges will be reading music. I have a very basic understanding of sheet music but not to the extent of fully comprehending it. It is also a very short piece but i feel i can evaluate it with depth and care.
+
+{% include_relative verovio_inline.html %}
