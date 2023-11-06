@@ -27,3 +27,20 @@ In conclusion, MEI is neater but less user fiendly but more beneficial for more 
 Upload view Jupiter
 
 ## Week 5
+Looking at YouTube, we came to the conclusion of this metadata featured
+	• Recommended videos
+	• Per video
+		○ Name
+		○ Channel (plus verification)
+		○ Small description
+		○ Day posted
+		○ Views
+		○ Length
+		○ Thumbnail
+	• Recommended videos
+	• Recommended genres
+	• Subscriptions
+	• Personal library
+	• Search engine
+	• Back to homepage
+Recommendations under videos get messy due to recommending it based on what you have just watched AND everything you’ve watched.
