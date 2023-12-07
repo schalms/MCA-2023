@@ -1,4 +1,6 @@
-	<link rel="stylesheet" href="style.css">
+<head>
+ <link rel="stylesheet" href="style.css">
+</head>
 # MCA
 Hello and Welcome to the homepage of My Music Analytics
 Here you will find my attempts to understand and become more enlightened
