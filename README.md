@@ -1,7 +1,19 @@
 # MCA
+Hello and Welcome to the homepage of My Music Analytics
+Here you will find my attempts to understand and become more enlightened
+<div id="menu">
+		<a href="content_template.html">Week 1 tasks</a><br>
+		<a href="content_template2.html">Week 2 tasks</a><br>
+		<a href="content_template3.html">Week 3 tasks</a><br>
+		<a href="content_template5.html">Week 5 tasks</a><br>
+		<a href="content_template7.html">Week 7 tasks</a><br>
+		<a href="content_template8.html">Week 8 tasks</a><br>
+		<a href="content_template9.html">Week 9 tasks</a><br>
+		<a href="content_template10.html">Week 10 tasks</a>
+</div>
 ## Week 1
 ### Question 1
-[p]I have chosen to look at Nemo's Egg by Thomas Newman. Its is a very short piece that consists of music and sound design for 1 minute and 17 seconds. It is the main theme from the 2003 animated feature Finding Nemo
+[p]I have chosen to look at Nemo's Egg by Thomas Newman. It is a very short piece that consists of music and sound design for 1 minute and 17 seconds. It is the main theme from the 2003 animated feature Finding Nemo
 https://github.com/schalms/MCA-2023/assets/145568023/859ff810-936b-439a-a0a9-f78d95f1868e
 ![image](https://github.com/schalms/MCA-2023/assets/145568023/32ddd94b-3675-43ed-8507-e89c86ed8b7c)
 
