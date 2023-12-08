@@ -1,0 +1,31 @@
+body {
+  background-color: MintCream;
+}
+h1 {
+  color: #3366ff; font-family: "Garamond", serif; text-align: center; text-decoration-line: underline;
+}
+
+h2 {
+  color: #3366ff; font-family: "Garamond", serif;
+}
+
+h3 {
+  color: #3366ff; font-family: "Garamond", serif;
+}
+
+h4 {
+  color: #3366ff; font-family: "Garamond", serif;
+}
+
+h5 {
+  color: #3366ff; font-family: "Garamond", serif;
+}
+
+p {
+  color: #668cff; font-family: "Georgia", serif;
+}
+
+div{
+	background-color: MintCream;
+	color: #668cff;
+}
